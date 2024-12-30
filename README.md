@@ -64,4 +64,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 Have a question or an idea to make **Cosmic Bouncy Blip** even better? Reach out to me:
 
-GitHub: [Neowizen](https://github.com/Nekyro)
+GitHub: [Neowizen](https://github.com/Yamil-Serrano)
