@@ -30,10 +30,9 @@ You can download Raylib from the official [Raylib website](https://www.raylib.co
    
 
 ## Demo
-Here’s a quick look at Splatty in action! Check out the demo below to see how the gameplay flows:
+Here's a quick look at **Splatty** in action! This demo showcases the basic gameplay and jumping mechanics. Future updates will include more content and polished features.
 
 ![ezgif-4-a07efb5c1b](https://github.com/user-attachments/assets/2fb8aa2c-2f53-4a52-9143-d00435030ac8)
-
 
 ## Game Controls
 
