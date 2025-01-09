@@ -1,7 +1,7 @@
 
-# Cosmic Bouncy Blip
+# Cosmic Bouncy Blip - Prototype
 
-**Cosmic Bouncy Blip** is a super fun 2D adventure game where you play as **Splatty**, a little green alien with a big dream—to bounce through platforms in space! Join **Splatty** on a cosmic journey, hopping through the stars. Can you help **Splatty** reach new heights and explore the wonders of the galaxy?
+**Cosmic Bouncy Blip - Prototype** is a fun and simple 2D adventure game where you play as **Splatty**, a little green alien with a big dream—to bounce through platforms in space! This is an early prototype created to explore game mechanics, and it's far from the final version. Join **Splatty** on this cosmic journey and help them jump through the stars!
 
 ## Prerequisites
 
