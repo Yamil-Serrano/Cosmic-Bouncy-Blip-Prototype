@@ -23,5 +23,5 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ## Author
 
-**Name:** [Neowizen](https://github.com/Nekyro)  
+**Name:** [Neowizen](https://github.com/Yamil-Serrano)  
 **Date:** 12/29/2024
